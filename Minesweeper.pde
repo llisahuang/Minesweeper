@@ -66,6 +66,7 @@ public void displayLosingMessage()
    buttons[0][0].myLabel = "Y";
   buttons[0][1].myLabel = "O";
   buttons[0][2].myLabel = "U";
+  buttons[0][3].myLabel = "";
   buttons[0][4].myLabel = "L";
   buttons[0][5].myLabel = "O";
   buttons[0][6].myLabel = "S";
@@ -81,6 +82,7 @@ public void displayWinningMessage()
   buttons[0][0].myLabel = "Y";
   buttons[0][1].myLabel = "O";
   buttons[0][2].myLabel = "U";
+  buttons[0][3].myLabel = "";
   buttons[0][4].myLabel = "W";
   buttons[0][5].myLabel = "I";
   buttons[0][6].myLabel = "N";
